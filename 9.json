@@ -1,7 +1,8 @@
+//🇨🇳欧歌2024-01-05 21:36:28整合本接口
 
 {
 "wallpaper":"./t/",
-"spider":"./jar.php?id=ou;md5;d175be843d11d10b9983cceb2d680cc5","warningText":"1",
+"spider":"./jar.php?id=ou;md5;d175be843d11d10b9983cceb2d680cc5","warningText":"公众号欧歌app公众号欧歌APP，长期维护，切勿贩卖",
 
 
 "lives":[{"name":"live","type":0,"url":"http://v.nxog.top/jar/live.jpg","playerType":1,"ua": "okhttp/3.12.13","epg":"http://epg.112114.xyz/?ch={name}&date={date}","logo": "https://epg.112114.xyz/logo/{name}.png"},
