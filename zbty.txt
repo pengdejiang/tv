@@ -1,7 +1,5 @@
 公众号【天微科技】240101更新
 
-#    http://tvkj.top/tvlive.txt
-
 📡百视有线,#genre#
 百视独播,https://bp-caster.bestv.com.cn/944/3/video.m3u8
 百视TV1,https://bp-caster.bestv.com.cn/943/3/video.m3u8
