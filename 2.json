@@ -95,16 +95,6 @@
       "jar": "./jar/moyu应用市场.jar"
     },
     {
-      "key": "玩偶哥哥",
-      "name": "4K-HDR🐟玩偶|弹幕",
-      "type": 3,
-      "api": "csp_WoGG",
-      "searchable": 1,
-      "quickSearch": 1,
-      "changeable": 0,
-      "ext": "http://127.0.0.1:9978/file/tvmoyu/token.txt+4k|auto|fhd$$$https://api.wogg.xyz/$$$弹"
-    },
-    {
       "key": "Pan99",
       "name": "4K-HDR🐟胖达|弹幕",
       "type": 3,
