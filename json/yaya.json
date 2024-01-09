@@ -1,0 +1,29 @@
+{
+  "vodPic": "https://s1.ax1x.com/2023/05/04/p9tgI81.png",
+  "drives": [
+    {
+      "name": "网盘聚合ECVE",
+      "server": "https://pan.ecve.cn"
+    },
+    {
+      "name": "000",
+      "server": "https://pan.ichuguang.com"
+    },
+    {
+      "name": "0000",
+      "server": "https://vtok.pp.ua/"
+    },
+    {
+      "name": "000000",
+      "server": "https://al.chirmyram.com"
+    },
+    {
+      "name": "000000",
+      "server": "https://alist.shenzjd.com"
+    },
+    {
+      "name": "0000000",
+      "server": "https://zi0.cc"
+    }
+  ]
+}
