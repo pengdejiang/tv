@@ -52,17 +52,6 @@
       "api": "./js/drpy2.min.js",
       "ext": "./js/FreeOK.js"
     },
-    {
-      "key": "csp_XYQHikerdyx",
-      "name": "4K-HDR🐟电影港",
-      "type": 3,
-      "api": "csp_XYQHiker",
-      "searchable": 1,
-      "quickSearch": 1,
-      "filterable": 1,
-      "ext": "./json/dyg.json",
-      "jar": "./jar/dyg.jar"
-    },
   {
       "key": "豆豆",
       "name": "导航🐟|摸鱼儿.top",
