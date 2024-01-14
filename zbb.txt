@@ -1,0 +1,5 @@
+
+
+📡央Y视频道,#genre#
+中央CCTV-2,
+http://221.226.4.10:9901/tsfile/live/0002_1.m3u8?key=txiptv&playlive=1&authid=0
