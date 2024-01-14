@@ -1,8 +1,0 @@
-
-
-📡央Y视频道,#genre#
-中央CCTV-1,http://118.212.69.221:9901/tsfile/live/0001_1.m3u8?key=txiptv&playlive=0&authid=0
-中央CCTV-2,http://221.226.4.10:9901/tsfile/live/0002_1.m3u8?key=txiptv&playlive=1&authid=0
-中央CCTV-3,http://221.226.4.10:9901/tsfile/live/0003_1.m3u8?key=txiptv&playlive=1&authid=0
-中央CCTV-4,http://111.9.163.109:9901/tsfile/live/0004_1.m3u8?key=txiptv&playlive=1&authid=0
-中央CCTV-5,http://111.9.163.186:9901/tsfile/live/0005_1.m3u8?key=txiptv&playlive=1&authid=0
