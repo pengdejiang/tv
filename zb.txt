@@ -175,9 +175,6 @@ CCTV15,http://121.19.134.2:808/tsfile/live/0015_1.m3u8?key=txiptv&playlive=1&aut
 CCTV15,http://121.19.134.34:808/tsfile/live/0015_1.m3u8?key=txiptv&playlive=1&authid=0
 CCTV15,http://121.19.134.246:808/tsfile/live/0015_1.m3u8?key=txiptv&playlive=1&authid=0
 CCTV15,http://www.furymax.top:85/rtp/239.69.1.155:10566
-
-
-CCTV16,http://www.furymax.top:85/rtp/239.69.1.247:11124
 CCTV16,http://www.furymax.top:85/rtp/239.69.1.249:11136
 
 CCTV17,http://121.19.134.2:808/tsfile/live/0017_1.m3u8?key=txiptv&playlive=1&authid=0
