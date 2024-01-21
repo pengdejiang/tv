@@ -109,7 +109,6 @@ CCTV8,http://221.14.153.247:9901/tsfile/live/0008_1.m3u8?key=txiptv&playlive=1&a
 CCTV8,http://221.14.153.224:9901/tsfile/live/1008_1.m3u8?key=txiptv&playlive=1&authid=0
 CCTV8,http://101.65.34.245:9901/tsfile/live/0008_1.m3u8?key=txiptv&playlive=0&authid=0
 CCTV8,http://221.14.153.211:9901/tsfile/live/0008_1.m3u8?key=txiptv&playlive=1&authid=0
-CCTV8,http://8.210.232.168/php/migu.php?id=cctv8
 
 
 
