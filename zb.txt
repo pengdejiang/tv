@@ -2413,7 +2413,6 @@ CCTV5,http://219.145.20.180:12211/tsfile/live/0136_1.m3u8?key=txiptv&playlive=1&
 
 
 🎬影视解说介绍,#genre#
-「解说」电视剧,https://tv.iill.top/huya/25018873
 「解说」电影•1,https://tv.iill.top/huya/20289754
 「解说」电影•2,https://tv.iill.top/huya/24983280
 「解说」电影•3,https://tv.iill.top/huya/24396428
