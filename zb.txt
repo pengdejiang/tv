@@ -1702,7 +1702,6 @@ CCTV12,http://180.140.22.194:8088http://luojizheng6.3322.org:8088/tsfile/live/00
 CCTV13,http://180.140.22.194:8088/tsfile/live/0013_1.m3u8?key=txiptv&playlive=1&authid=0
 CCTV14,http://180.140.22.194:8088/tsfile/live/0014_1.m3u8?key=txiptv&playlive=1&authid=0
 CCTV15,http://180.140.22.194:8088/tsfile/live/0015_1.m3u8?key=txiptv&playlive=1&authid=0
-CCTV16,http://180.140.22.194:8088/tsfile/live/1039_1.m3u8?key=txiptv&playlive=1&authid=0
 CCTV17,http://180.140.22.194:8088http://luojizheng6.3322.org:8088/tsfile/live/0019_1.m3u8?key=txiptv&playlive=1&authid=0
 CCTV5,http://180.140.22.194:8088/tsfile/live/0016_1.m3u8?key=txiptv&playlive=1&authid=0
 CCTV1,http://42.49.34.55:9901/tsfile/live/0001_1.m3u8?key=txiptv&playlive=1&authid=0
