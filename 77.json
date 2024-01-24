@@ -1,0 +1,23 @@
+{
+  "spider": "./jar/cc.jar",
+  "lives": [
+    {
+      "name": "tvlive",
+      "type": 0,
+      "url": "https://gitee.com/pengdejiang998/bb/raw/master/zb.txt",
+      "playerType": 1
+    }
+  ],
+  "sites": [
+    
+   {
+    {
+      "key": "X",
+      "name": "X┃X",
+      "type": 3,
+      "api": "csp_Xunlei8",
+      "jar": "./jar/myog.jar",
+      "searchable": 1,
+      "quickSearch": 1,
+      "filterable": 1
+    },
