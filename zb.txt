@@ -18,8 +18,7 @@ YanG_1989 Gather 作者的
 码点小干货直播发布地址8：http://mdxgh.dynv6.net/new/mdlive.txt
 
 
-IPTVPRO需要使用m3u格式的播放器使用如下：
-线路3：http://router.bopop.buzz:9999/new/mdlive.m3u
+IPTVPRO需要使用m3u格式的播放器使用如下：线路3：http://router.bopop.buzz:9999/new/mdlive.m3u
 线路4：http://mdxgh.dynv6.net/new/mdlive.m3u
 线路5：http://oneone.dynv6.net/live/mdlive.m3u
 ------------------------------------------------------------------------
@@ -67,7 +66,6 @@ CCTV4,http://121.19.134.21:808/tsfile/live/0004_1.m3u8?key=txiptv&playlive=1&aut
 CCTV5,http://221.14.153.247:9901/tsfile/live/0005_1.m3u8?key=txiptv&playlive=1&authid=0
 CCTV5,http://221.14.153.211:9901/tsfile/live/0005_1.m3u8?key=txiptv&playlive=1&authid=0
 CCTV6,http://121.19.134.21:808/tsfile/live/0006_1.m3u8?key=txiptv&playlive=1&authid=0
-CCTV6,http://121.19.134.2:808/tsfile/live/0006_1.m3u8?key=txiptv&playlive=1&authid=0
 CCTV6,http://221.14.153.211:9901/tsfile/live/0006_1.m3u8?key=txiptv&playlive=1&authid=0
 CCTV7,http://221.14.153.247:9901/tsfile/live/0007_1.m3u8?key=txiptv&playlive=1&authid=0
 CCTV7,http://221.14.153.211:9901/tsfile/live/0007_1.m3u8?key=txiptv&playlive=1&authid=0
