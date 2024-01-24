@@ -1,0 +1,9 @@
+{
+  "spider": "./jar/moyuer.jar;md5;be6121b5c37471b191114027123912d2",
+  "lives": [
+    {
+      "name": "tvlive",
+      "type": 0,
+      "url": "https://gitee.com/pengdejiang998/bb/raw/master/zb.txt",
+      "playerType": 1
+    }
