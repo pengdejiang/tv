@@ -17,7 +17,7 @@
     {
       "name": "live",
       "type": 0,
-      "url": "https://gitcode.net/weixin_39647393/aa/-/raw/master/zb1.txt",
+      "url": "https://gitcode.net/weixin_39647393/aa/-/raw/master/zb.txt",
       "ua": "okhttp/3.12.13",
       "epg": "http://epg.112114.xyz/?ch={name}&date={date}",
       "logo": "https://epg.112114.xyz/logo/{name}.png"
