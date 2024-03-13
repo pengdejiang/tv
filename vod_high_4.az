@@ -13,7 +13,7 @@
     
    {
       "key": "csp_WoGG",
-      "name": "玩偶哥哥(饭太)",
+      "name": "玩偶云盘-加载需要等待10秒再点击下面点播",
       "type": 3,
       "api": "csp_WoGG",
       "searchable": 1,
