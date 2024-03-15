@@ -102,27 +102,6 @@
       "changeable": 1
     },
     {
-      "key": "短剧网",
-      "name": "💕短剧网💕",
-      "type": 3,
-      "api": "csp_Duanjuw",
-      "searchable": 1,
-      "quickSearch": 1,
-      "changeable": 1,
-      "jar": "https://gitee.com/pengdejiang998/bb/raw/master/wuyiyun.php"
-    },
-    {
-      "key": "短剧",
-      "name": "💕短剧1💕",
-      "type": 3,
-      "api": "csp_App",
-      "searchable": 1,
-      "quickSearch": 1,
-      "filterable": 0,
-      "ext": "https://zzdj.cc/api.php/provide/vod",
-      "jar": "https://gitee.com/pengdejiang998/bb/raw/master/wuyiyun.php"
-    },
-    {
       "key": "新6V",
       "name": "🦊新6V_清晰度高",
       "type": 3,
