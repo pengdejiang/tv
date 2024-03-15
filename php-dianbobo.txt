@@ -1,8 +1,0 @@
-{
-  "urls": [
-    {
-      "url": "https://gitee.com/pengdejiang998/bb/raw/master/6.json",
-      "name": ""
-    }
-  ]
-}
