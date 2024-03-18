@@ -1,6 +1,14 @@
 {
   "sites": [
     {
+      "key": "本地",
+      "name": "💻哈哈┃学习",
+      "type": 3,
+      "api": "csp_Local",
+      "searchable": 0,
+      "changeable": 0
+    },
+    {
       "key": "drpy_企鹅",
       "name": "🐧藤迅视频",
       "type": 3,
