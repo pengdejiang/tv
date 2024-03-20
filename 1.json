@@ -307,16 +307,6 @@
       "api": "https://bfzyapi.com/api.php/provide/vod",
       "searchable": 1,
       "changeable": 1
-    },  
-	{
-      "key": "csp_WoGG",
-      "name": "💕💕💕玩偶真4K_RAY",
-      "type": 3,
-      "api": "csp_WoGG",
-      "searchable": 1,
-      "quickSearch": 1,
-      "changeable": 0,
-      "ext": "http://127.0.0.1:9978/file/tvfan/token.json+auto|4k|fhd$$$https://api.wogg.xyz/$$$弹"
     },
     {
       "key": "YiSo",
