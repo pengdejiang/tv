@@ -1,0 +1,499 @@
+###RAY   https://100km.top/0
+###无意云  http://www.wya6.cn/tv/yc.json
+
+
+
+{
+  "wallpaper": "❤到期点❤薇信搜luffy9847添加好友处理继续使用-此查看❤",
+  "spider": "./lib_ray20230314/jay20240314",
+  "lives": [
+    {
+      "name": "白",
+      "type": 0,
+      "url": "./lib_ray20230314/itvlist.m3u"
+    },
+    {
+      "name": "tvlive",
+      "type": 0,
+      "url": "./lib_ray20230314/tv.txt",
+      "playerType": 2
+    },
+    {
+      "name": "嗅探",
+      "ua": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36 Edg/120.0.0.0",
+      "type": 0,
+      "url": "./lib_ray20230314/xiutan.m3u"
+    }
+  ],
+  "sites": [
+    {
+      "key": "火狐",
+      "name": "💕💕火狐聚合RAY",
+      "type": 1,
+      "api": "https://hhzyapi.com/api.php/provide/vod/",
+      "searchable": 1,
+      "quickSearch": 0,
+      "filterable": 1,
+      "categories": [
+        "内地剧",
+        "动作片",
+        "科幻片",
+        "战争片",
+        "喜剧片",
+        "爱情片",
+        "恐怖片",
+        "犯罪片",
+        "剧情片",
+        "冒险片",
+        "记录片",
+        "韩剧",
+        "香港剧",
+        "台湾剧",
+        "欧美剧",
+        "日剧",
+        "马泰剧",
+        "体育赛事",
+        "综艺",
+        "动画片",
+        "中国动漫",
+        "日本动漫",
+        "欧美动漫"
+      ]
+    },
+    {
+      "key": "荐片",
+      "name": "💕💕荐片聚合RAY",
+      "type": 3,
+      "searchable": 1,
+      "quickSearch": 1,
+      "changeable": 1,
+      "playerType": "1",
+      "api": "./lib_ray20230314/drpy2.min.js",
+      "ext": "./lib_ray20230314/jp.js"
+    },
+    {
+      "key": "drpy_芒果",
+      "name": "💙💙笀果TV视频suai",
+      "type": 3,
+      "api": "./lib_buliang/drpy2.min.js",
+      "ext": "./lib_buliang/mgtv.js"
+    },
+    {
+      "key": "dr_看18哈",
+      "name": "💜💜1080P-看18┃cadou",
+      "type": 3,
+      "api": "./lib_chadou/merge.min.js",
+      "searchable": 1,
+      "playerType": 2,
+      "quickSearch": 1,
+      "filterable": 1,
+      "ext": "./lib_chadou/18哈.js"
+    },
+    {
+      "key": "Lib",
+      "name": "💕💕Libvio_RAY",
+      "type": 3,
+      "api": "csp_Libvio",
+      "searchable": 1,
+      "quickSearch": 1,
+      "changeable": 1,
+      "ext": "https://www.libvio.pw/"
+    },
+    {
+      "key": "一起看 ",
+      "name": "💕💕一起看_RAY",
+      "type": 3,
+      "api": "csp_YQKan",
+      "searchable": 1,
+      "quickSearch": 1,
+      "changeable": 1
+    },
+    {
+      "key": "Xinsj",
+      "name": "💕💕新视觉RAY",
+      "type": 3,
+      "api": "csp_Xinsj",
+      "timeout": 15,
+      "searchable": 1,
+      "quickSearch": 1,
+      "changeable": 1,
+      "ext": "https://www.80yy3.com/"
+    },
+    {
+      "key": "Xunlei8",
+      "name": "💕💕迅雷1080P影视RAY",
+      "type": 3,
+      "api": "csp_Xunlei8",
+      "jar": "http://www.wya6.cn/tz/wypg.php",
+      "changeable": 1,
+      "timeout": 60
+    },
+    {
+      "key": "鑫鑫[V2]",
+      "name": "💕💕鑫鑫RAY",
+      "type": 3,
+      "api": "./lib_ray20230314/drpy2.min.js",
+      "ext": "./lib_ray20230314/鑫鑫[V2].js"
+    }, 
+    {
+      "key": "南瓜",
+      "name": "💕💕南瓜RAY",
+      "type": 3,
+      "api": "csp_NanGua",
+      "playerType": 2,
+      "searchable": 1,
+      "quickSearch": 1,
+      "changeable": 1
+    },
+    {
+      "key": "追剧",
+      "name": "💕💕追剧RAY",
+      "type": 3,
+      "api": "csp_AppTT",
+      "playerType": 2,
+      "ext": "AO7TcBkd8Jqf5UgA7xXA6dVlLcc="
+    },
+    {
+      "key": "77",
+      "name": "💕💕七七解析嗳优藤-RAY",
+      "type": 3,
+      "api": "csp_Kunyu77",
+      "searchable": 1,
+      "quickSearch": 1,
+      "changeable": 1
+    },
+    {
+      "key": "ikanbot3",
+      "name": "💕💕爱看bot3-RAY",
+      "type": 3,
+      "api": "./lib_ray20230314/drpy2.min.js",
+      "ext": "./lib_ray20230314/ikanbot3.js"
+    },
+    {
+      "key": "drpy_js_LIBVIO",
+      "name": "💕💕LIBVIO[js]",
+      "type": 3,
+      "api": "./lib_ray20230314/drpy2.min.js",
+      "ext": "./lib_ray20230314/LIBVIO.js"
+    },
+    {
+      "key": "暴风",
+      "name": "💕💕暴风RAY",
+      "type": 1,
+      "api": "https://bfzyapi.com/api.php/provide/vod",
+      "searchable": 1,
+      "changeable": 1
+    },  
+    {
+      "key": "csp_Bttoo",
+      "name": "💕Bttwoo",
+      "type": 3,
+      "api": "csp_Bttwoo",
+      "searchable": 1,
+      "quickSearch": 1,
+      "changeable": 1
+    },
+   {
+   "key": "短剧",
+      "name": "💕短剧聚合RAY",
+      "type": 3,
+      "api": "csp_Duanju",
+      "searchable": 1,
+      "quickSearch": 1,
+      "changeable": 1
+    },
+    {
+      "key": "新6V",
+      "name": "💕💕新6V_RAY",
+      "type": 3,
+      "api": "csp_SixV",
+      "searchable": 1,
+      "quickSearch": 1,
+      "changeable": 0,
+      "ext": "http://www.xb6v.com/"
+    },
+    {
+      "key": "Auete",
+      "name": "💕💕奥特站RAY",
+      "type": 3,
+      "api": "csp_Auete",
+      "searchable": 1,
+      "quickSearch": 1,
+      "changeable": 1,
+      "ext": "https://auete.pro/"
+    },
+    {
+      "key": "DiDuan",
+      "name": "💕💕低端RAY",
+      "type": 3,
+      "api": "csp_Ddrk",
+      "playerType": "2",
+      "searchable": 1,
+      "quickSearch": 1,
+      "changeable": 1
+    },
+    {
+      "key": "快看",
+      "name": "💕💕快看RAY",
+      "type": 3,
+      "api": "csp_Kkys",
+      "timeout": 15,
+      "searchable": 1,
+      "quickSearch": 1,
+      "changeable": 1
+    },
+    {
+      "key": "农民",
+      "name": "💕💕农民RAY",
+      "type": 3,
+      "api": "csp_Nmys",
+      "searchable": 1,
+      "quickSearch": 1,
+      "changeable": 1,
+      "ext": "./lib_ray20230314/nmys.json"
+    },
+    {
+      "key": "原创",
+      "name": "💕💕原创RAY",
+      "type": 3,
+      "api": "csp_YCyz",
+      "timeout": 15,
+      "searchable": 1,
+      "quickSearch": 1,
+      "changeable": 1
+    },
+    {
+      "key": "厂长",
+      "name": "💕💕厂长RAY",
+      "type": 3,
+      "api": "csp_Czsapp",
+      "timeout": 15,
+      "playerType": 2,
+      "searchable": 1,
+      "quickSearch": 1,
+      "changeable": 1,
+      "ext": "https://www.czzy77.com/"
+    },
+	{
+      "key": "豆瓣推荐",
+      "name": "💕💕豆瓣推荐RAY",
+      "type": 3,
+      "api": "csp_DouDou",
+      "searchable": 0,
+      "quickSearch": 0,
+      "filterable": 0
+    },
+	{
+      "key": "csp_WoGG",
+      "name": "💕玩偶真4K_RAY",
+      "type": 3,
+      "api": "csp_WoGG",
+      "searchable": 1,
+      "quickSearch": 1,
+      "changeable": 0,
+      "ext": "http://127.0.0.1:9978/file/tvfan/token.json+auto|4k|fhd$$$https://api.wogg.xyz/$$$弹"
+    },
+    {
+      "key": "课堂教育",
+      "name": "💕💕课堂教育RAY",
+      "type": 3,
+      "api": "csp_Bili",
+      "searchable": 0,
+      "quickSearch": 0,
+      "filterable": 1,
+      "ext": "./lib_ray20230314/xx1.json"
+    },
+    {
+      "key": "少儿教育",
+      "name": "💕💕少儿教育RAY",
+      "type": 3,
+      "api": "csp_Bili",
+      "searchable": 0,
+      "quickSearch": 0,
+      "filterable": 1,
+      "ext": "./lib_ray20230314/xx2.json"
+    },
+    {
+      "key": "小学教育",
+      "name": "💕💕小学教育RAY",
+      "type": 3,
+      "api": "csp_Bili",
+      "searchable": 0,
+      "quickSearch": 0,
+      "filterable": 1,
+      "ext": "./lib_ray20230314/xx3.json"
+    },
+    {
+      "key": "初中教育",
+      "name": "💕💕初中教育RAY",
+      "type": 3,
+      "api": "csp_Bili",
+      "searchable": 0,
+      "quickSearch": 0,
+      "filterable": 1,
+      "ext": "./lib_ray20230314/xx4.json"
+    },
+    {
+      "key": "高中教育",
+      "name": "💕💕高中教育RAY",
+      "type": 3,
+      "api": "csp_Bili",
+      "searchable": 0,
+      "quickSearch": 0,
+      "filterable": 1,
+      "ext": "./lib_ray20230314/xx5.json"
+    },
+    {
+      "key": "drpy_js_Auete",
+      "name": "Auete[js]",
+      "type": 3,
+      "api": "./lib_ray20230314/drpy2.min.js",
+      "ext": "./lib_ray20230314/Auete.js"
+    },
+    {
+      "key": "drpy_js_量子资源",
+      "name": "量子[js]",
+      "type": 3,
+      "api": "./lib_ray20230314/drpy2.min.js",
+      "ext": "./lib_ray20230314/量子资源.js"
+    },
+    {
+      "key": "drpy_js_lf_p2p",
+      "name": "磁力p2p(搜索)",
+      "type": 3,
+      "api": "./lib_ray20230314/lf_p2p1_min.js"
+    },
+    {
+      "key": "push_agent",
+      "name": "推送",
+      "type": 3,
+      "api": "csp_Push",
+      "searchable": 0,
+      "quickSearch": 0,
+      "filterable": 0,
+      "ext": "http://127.0.0.1:9978/file/tvfan/token.txt+auto|4k|fhd"
+    }
+  ],
+  "rules": [
+    {
+      "name": "hwk",
+      "hosts": [
+        "haiwaikan"
+      ],
+      "regex": [
+        "10.0099",
+        "10.3333",
+        "16.0599",
+        "8.1748",
+        "12.33",
+        "10.85"
+      ]
+    },
+    {
+      "name": "yqk",
+      "hosts": [
+        "yqk88"
+      ],
+      "regex": [
+        "18.4",
+        "15.1666",
+        "16.5333",
+        "#EXT-X-DISCONTINUITY\\r*\\n*[\\s\\S]*?#EXT-X-CUE-IN"
+      ]
+    },
+    {
+      "name": "sn",
+      "hosts": [
+        "suonizy"
+      ],
+      "regex": [
+        "#EXTINF.*?\\s+.*?original.*?\\.ts\\s+",
+        "15.1666",
+        "15.2666",
+        "16.3333",
+        "15.266667"
+      ]
+    },
+    {
+      "name": "bf",
+      "hosts": [
+        "bfzy"
+      ],
+      "regex": [
+        "#EXT-X-DISCONTINUITY\\r*\\n*#EXTINF:3,[\\s\\S]*?#EXT-X-DISCONTINUITY"
+      ]
+    },
+    {
+      "name": "xx",
+      "hosts": [
+        "aws.ulivetv.net"
+      ],
+      "regex": [
+        "#EXT-X-DISCONTINUITY\\r*\\n*#EXTINF:8,[\\s\\S]*?#EXT-X-DISCONTINUITY"
+      ]
+    },
+    {
+      "name": "lz",
+      "hosts": [
+        "lz"
+      ],
+      "regex": [
+        "18.5333",
+        "19.52"
+      ]
+    },
+    {
+      "name": "ff",
+      "hosts": [
+        "vip.ffzy",
+        "hd.ffzy",
+        "ffzy"
+      ],
+      "regex": [
+        "25.0666",
+        "25.08",
+        "20.52",
+        "25.1",
+        "25.1999"
+      ]
+    },
+    {
+      "name": "hs",
+      "hosts": [
+        "huoshan.com"
+      ],
+      "regex": [
+        "item_id="
+      ]
+    },
+    {
+      "name": "dy",
+      "hosts": [
+        "douyin.com"
+      ],
+      "regex": [
+        "is_play_url="
+      ]
+    },
+    {
+      "name": "nm",
+      "hosts": [
+        "toutiaovod.com"
+      ],
+      "regex": [
+        "video/tos/cn"
+      ]
+    },
+    {
+      "name": "cl",
+      "hosts": [
+        "magnet"
+      ],
+      "regex": [
+        "最新",
+        "直播",
+        "更新"
+      ]
+    }
+  ]
+}
