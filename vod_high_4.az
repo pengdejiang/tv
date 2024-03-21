@@ -6,7 +6,7 @@
   "sites": [
     {
       "key": "drpy_芒果",
-      "name": "💙💙💙笀果帅",
+      "name": "💙💙💙笀果TV-app",
       "type": 3,
       "api": "./lib_buliang/drpy2.min.js",
       "ext": "./lib_buliang/mgtv.js"
